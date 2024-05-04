@@ -1,0 +1,5 @@
+lista_int = [23, 56, 213, 13, 17, 22]
+lista_binario = [bin(numero)[2:] for numero in lista_int]
+
+
+print (lista_binario)
